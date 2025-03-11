@@ -4,15 +4,46 @@ Power BI
 
 
 
-KPI’S Requirement
+# 🚀 Power BI Dashboard for Electric Vehicles  
 
-Total Vehicles:
+## 🔥 Overview  
+This project showcases an interactive **Power BI dashboard** that analyzes **Electric Vehicle (EV) data** with clear storytelling and filtering capabilities. The dashboard allows users to explore different insights dynamically, adjusting filters to see real-time changes in data.  
 
-Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
-Average Electric Range:
+## 📊 Key Features  
+- **Dynamic Filtering:** Gain different insights by applying various filters to the dataset.  
+- **Interactive Dashboards:** Visual storytelling using Power BI to highlight trends and key metrics.  
+- **Data-Driven Decisions:** Extract meaningful conclusions from EV data with clear visualizations.  
 
-Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
-Total BEV Vehicles and % of Total BEV Vehicles:
+## 📈 Key Performance Indicators (KPIs)  
+The dashboard focuses on the following KPIs:  
 
-Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
-Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
+### 1️⃣ **Total Vehicles**  
+- Assess the **total number of EVs**, including both **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)**.  
+- Understand market size and growth trends.  
+
+### 2️⃣ **Average Electric Range**  
+- Determine the **average electric range** of EVs in the dataset.  
+- Evaluate **technological advancements** and efficiency improvements over time.  
+
+### 3️⃣ **Total BEV Vehicles & Market Share**  
+- Identify and analyze the **total number of BEVs** in the dataset.  
+- Calculate the **percentage of BEVs relative to all EVs** to track the adoption of fully electric models.  
+
+## 📺 Video Demonstration  
+Watch how the dashboard works in this **demonstration video**: [Insert Video Link]  
+
+## 🛠️ Technologies Used  
+- **Power BI** – Interactive dashboards and visualizations.  
+- **DAX (Data Analysis Expressions)** – For custom calculations.  
+- **SQL/Python (if applicable)** – For data preprocessing and analysis.  
+
+## 📌 How to Use  
+1. Clone this repository.  
+2. Open the Power BI file (`.pbix`).  
+3. Explore the dashboard and apply filters to gain insights.  
+
+## 💡 Feedback & Contributions  
+I’d love to hear your thoughts! Feel free to open an **issue** or contribute to improve the dashboard.  
+
+🚀 **Let’s explore the future of Electric Vehicles with data!**  
+
