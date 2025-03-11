@@ -1,9 +1,7 @@
 # 🚀ELECTRIC-VEHICHLE- POWER BI DASHBOARD STORYTELLING💻![PowerBiJobDoneGIF](https://github.com/user-attachments/assets/635485c2-c785-44d8-9221-706dda2009ac)
 
 
-![Screenshot 2025-03-10 151356](https://github.com/user-attachments/assets/1374a187-6aac-45f6-afa2-6874aeb856ad)
-
-#  Power BI Dashboard for Electric Vehicles  
+![Screenshot 2025-03-10 151356](https://github.com/user-attachments/assets/1374a187-6aac-45f6-afa2-6874aeb856ad) 
 
 ## 🔥 Overview  
 This project showcases an interactive **Power BI dashboard** that analyzes **Electric Vehicle (EV) data** with clear storytelling and filtering capabilities. The dashboard allows users to explore different insights dynamically, adjusting filters to see real-time changes in data.  
