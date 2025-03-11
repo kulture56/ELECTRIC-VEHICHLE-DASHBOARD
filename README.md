@@ -1,8 +1,6 @@
 # ELECTRIC-VEHICHLE-DASHBOARD
-Power BI 
+
 ![Screenshot 2025-03-10 151356](https://github.com/user-attachments/assets/1374a187-6aac-45f6-afa2-6874aeb856ad)
-
-
 
 # 🚀 Power BI Dashboard for Electric Vehicles  
 
@@ -30,7 +28,7 @@ The dashboard focuses on the following KPIs:
 - Calculate the **percentage of BEVs relative to all EVs** to track the adoption of fully electric models.  
 
 ## 📺 Video Demonstration  
-Watch how the dashboard works in this **demonstration video**: [Insert Video Link]  
+Watch how the dashboard works in this **demonstration video**: (https://www.linkedin.com/feed/update/urn:li:activity:7305240731357470720/)
 
 ## 🛠️ Technologies Used  
 - **Power BI** – Interactive dashboards and visualizations.  
